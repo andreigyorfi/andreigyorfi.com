@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://andreigyorfi.com/sitemap.xml

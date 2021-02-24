@@ -1,0 +1,29 @@
+{
+  "name": "andreigyorfi.com",
+  "version": "0.0.0",
+  "private": true,
+  "description": "My personal website.",
+  "author": {
+    "name": "Andrei Gyorfi",
+    "email": "hi@andreigyorfi.com",
+    "url": "https://andreigyorfi.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreigyorfi/andreigyorfi.com.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "next": "^10.0.7",
+    "postcss": "^8.2.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.3"
+  }
+}
